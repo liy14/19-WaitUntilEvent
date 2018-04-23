@@ -7,6 +7,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 import math
 
+
 def main():
     """ TESTs the functions in this module (by calling them). """
     double_a_float()
